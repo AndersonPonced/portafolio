@@ -7,24 +7,51 @@ body{
 
 /* celular */
 @media screen and (max-width: 575px) {
-  body .titulo{ position: absolute; top: 0px; margin-left: 25%; }
+  body .titulo{ position: absolute; top: 0px; margin-left: 30%; }
 body  .text{position: absolute; top: 310px; }
-section .yo{position: absolute; top: 90px;}
+section .yo{position: absolute; top: 90px; }
  header .titulo2{ position: absolute; top: 400px; margin-left: 30%;}
-.logos{ position: absolute; top: 50%; margin-left: 30%;}
-.logos .css{position: absolute; top: 400px;}
- .logos .js{position: absolute; top: 600px; }
+.logos{ position: absolute; top: 50%; margin-left: 35%;}
+.logos .css{position: absolute; top: 400px; }
+.logos .js{position: absolute; top: 600px; }
+.logos .git{position: absolute; top: 800px; }
 aside{ position: absolute; top: 200%;      }
-section .yo{ margin-left: 20%;      }
-aside .lumiere{  height:  20vh; width: 40vw;}
-aside .buena{position: absolute; top: 128px; height:  20vh; width: 40vw; }
-aside .vene{height:  20vh; width: 40vw; position: absolute; top: 260px; left:  10%;  }
-aside .proyec{ left: 50%;}
-aside .lu{position: absolute; top: 50px;}
-aside .bu{position: absolute; top: 50px; left: 40%;}
-aside .ve{position: absolute; top: 250px; left: 60%;}
+section .yo{ margin-left: 25%;      }
+aside .lumiere{ position: absolute; top: 120px ;height:  20vh; width: 40vw;}
+aside .buena{position: absolute; top: 120px; height:  20vh; width: 40vw;  left: 108%;}
+aside .vene{height:  20vh; width: 40vw; position: absolute; top: 300px; left:  10%;  }
+aside .proyec{  margin-left: 83%;}
+aside .lu{position: absolute; top: 60px; left: 20%; }
+aside .bu{position: absolute; top: 60px; left: 100%;}
+aside .ve{position: absolute; top: 300px; left: 120%;}
+.biografia{position: absolute; top: 1800px; right: 30%;}
+.biografia1{position: absolute; top: 1300px; right: 30%;}
+.naci{position: absolute; top: 1390px; right: 40%;}
+.text1{position: absolute; top: 1430px; right: 20%;}
+.nacii{position: absolute; top: 1499px; right: 48%;}
+.text2{position: absolute; top: 1540px; right: 5%;}
+.text3{position: absolute; top: 1900px; right: 35%;}
+footer .gmail{position: absolute; top: 2000px; right: 50%;}
+footer .ins{position: absolute; top: 2050px; left: 37%;}
+footer .g{position: absolute; top: 2000px; left: 50%;}
+footer .i{position: absolute; top: 2050px; left: 50%;}
 
 }
+
+/* Tablet */
+
+/* @media screen and (max-width: 1000px){
+
+  section .yo{position: absolute; top: 150px; }
+  section .yo {margin-left: 1%;}
+  .logos .html{position: absolute; top: 200px; height: 15vh; margin-left: 40%; }
+  .logos .css{position: absolute; top: 196px; height: 16vh; margin-left: 55%; }
+  .logos .js{position: absolute; top: 200px; height: 15vh; margin-left: 70%; }
+  .logos .git{position: absolute; top: 305px; height: 15vh; margin-left: 55.4%; }
+
+
+
+} */
 
 nav{
  background-color: rgba(255,255,255,.1);
@@ -322,6 +349,20 @@ opacity: 100%;
 }
 
 .biografia{
+  text-align: center;
+  font-size: 30px;
+  border: solid red;
+  width: 180px;
+  margin-left: 45%;
+  border-radius: 8%;
+  color: white;
+  background-color: red;
+  border: solid rgba(27,249,240);
+
+
+}
+
+.biografia1{
   text-align: center;
   font-size: 30px;
   border: solid red;
