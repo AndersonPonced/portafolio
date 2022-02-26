@@ -406,3 +406,34 @@ text-decoration: underline rgba(27,249,240);;
 
 
 }
+
+.mostrarArriba {
+
+  animation: mostrarArriba 1s;
+
+}
+
+@keyframes mostrarArriba{
+  0%{
+    transform: traslateY(-70px);
+    100%{
+      transform: traslateY(0px);
+    }
+  }
+}
+
+html{
+  scroll-behavior: smooth;
+
+}
+
+::-webkit-scrollbar{
+  background: #555555;
+  width: 10PX;
+}
+
+::-webkit-scrollbar-thumb{
+ background: rgb(0, 0, 0, .4);
+ background: linear-gradient(125deg, #18181a);
+
+}
