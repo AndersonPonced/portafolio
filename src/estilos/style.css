@@ -1,0 +1,566 @@
+body{
+    background-color: rgb(31, 30, 30);
+    height: 100%;
+    width: 100%;
+  font-family:serif;
+    
+margin-right: 10px;
+margin-bottom: 10px;
+color: white;
+ 
+
+}
+
+
+@media screen and (max-width: 575px){
+
+
+
+.foto1{
+
+display: none;
+
+
+}
+
+.usuario{
+
+width: 315vw;
+height: 20vh;
+position: relative;
+left: 2vh;
+
+}
+
+.btn{
+
+position: relative;
+left: 2vh;
+
+
+
+}
+.titu{
+
+position: relative;
+left: 6vh;
+
+}
+.wallet{
+
+position: relative;
+left: 4vh;
+
+}
+
+.costa{
+    display: none;
+}
+
+.perfil{display: none;}
+
+
+}
+
+.card{
+
+position: relative;
+top: -100vh;
+left: -50vh;
+
+}
+
+.not{ height: 100vh; width: 100vw;}
+
+
+.formulario{
+
+width: 70vh;
+height: 70vh;
+position: relative;
+left: 1%;
+top: -10vh;
+
+
+
+}
+
+
+.usuario{
+  
+position: relative;
+top: 20vh;
+height: 8vh;
+width: 50vh;
+
+   
+   
+   
+   
+}
+.comentarios{
+  
+    position: relative;
+    top: 30vh;
+    left: 82vh;
+    height: 8vh;
+    width: 51vh;
+    
+       
+       
+       
+       
+    }
+
+
+
+.contra{
+  
+     position: relative;
+     top: 30vh;
+     height: 8vh;
+     width: 50vh;
+     
+
+
+}
+
+
+.btn{
+
+    position: relative;
+    top: 40vh;
+    width: 50vh;
+    height: 7vh;
+    background-color: yellow;
+
+
+
+
+}
+
+
+.btn2{
+
+    position: relative;
+    top: 40vh;
+    width: 52vh;
+    height: 7vh;
+    left: 30vh;
+    background-color: yellow;
+
+
+
+
+}
+
+.wallet{
+
+
+    font-size: 5vh;
+    position: relative;
+    
+    text-decoration: none;
+    color: rgb(224, 212, 35);
+    left: 70px;
+    
+    
+    
+    
+    }
+    
+
+.titu{
+
+position: relative;
+top: 10vh;
+
+
+
+}  
+
+
+.foto1{
+
+height: 50vh;
+position: relative;
+left: 100vh;
+top: -10vh;
+background-color: black;
+border-radius: 30%;
+
+}
+
+.nav{
+
+
+ 
+height: 10vh ;
+width: 203vh;
+background-color: rgb(49, 49, 49);
+border: 1px solid rgb(56, 56, 56);
+
+}
+
+
+.p{
+
+ 
+position: relative;
+
+left: 40vh;
+top: 3vh;
+height: 5vh;
+width: 15vh;
+border-radius: 25%;
+
+}
+
+
+.p2{
+
+     
+    position: relative;
+ top: 3vh;
+    left: 60vh;
+    height: 5vh;
+width: 15vh;
+border-radius: 25%;
+    
+    
+    }
+
+    .p3{
+
+         
+        position: relative;
+       top: 3vh;
+        left: 80vh;
+        
+        
+        }
+
+.costa{
+    background-color: rgb(49, 49, 49);
+height: 100vh;
+width: 40vh;
+border: 1px solid rgb(56, 56, 56);
+
+
+}        
+
+
+.perfil{
+    background-color: rgb(49, 49, 49);
+border: 1px solid rgb(56, 56, 56);
+width: 162vh;
+height: 15vh;
+position: relative;
+top: -170vh;
+left: 40vh;
+
+
+}
+
+.perfi{
+    background-color: red;
+    height: 10vh;
+    width: 10vh;
+    position: relative;
+    left: 20vh;
+    top: 2vh;
+}
+
+.nombre{
+position: relative;
+top: -8vh;
+left: 40vh;
+
+
+
+}
+
+.bit{
+
+position: relative;
+top: -100vh;
+left: 40vh;
+width: 163.2vh;
+height: 48vh;
+
+}
+
+
+
+.card{
+
+height: 35vh;
+border-radius: 4%;
+position: relative;
+top: -84vh;
+left: 42vh;
+}
+
+.card2{
+width:50vh ;
+height: 35vh;
+border-radius: 4%;
+position: relative;
+top: -119vh;
+left: 91vh;
+}
+
+.card3{
+width: 50vh;
+height: 35vh;
+border-radius: 4%;
+position: relative;
+top: -119vh;
+left: 97vh;
+}
+
+.fon{
+
+
+height: 40vh;
+width: 202vh;
+
+}
+
+
+.cabe{
+background-color: rgb(233, 233, 233);
+
+
+}
+
+/* .lol{
+    background-color: rgb(233, 233, 233);
+
+   border-radius: 5%;
+ width: 10vh;
+ position: relative;
+ left;
+} */
+
+.btn3{
+position: relative;
+top: -150vh;
+left: 110vh;
+
+width: 10vh;
+
+
+
+
+
+}
+
+.btn4{
+    position: relative;
+    top: -150vh;
+    left: 50vh;
+    
+    width: 14vh;
+    
+    
+    
+    
+    
+    }
+.cal{
+
+position: relative;
+top: -100vh;
+left: 60vh;
+
+
+}
+
+.resul{
+
+position: relative;
+top: -105vh;
+left: 80vh;
+
+
+}
+
+ .gati{
+
+height: 17vh;
+
+
+
+
+ }
+
+ .dos{
+
+height: 10vh;
+
+
+ }
+
+
+.proyec{
+
+position: relative;
+left: 99vh;
+ 
+height: 7vh;
+width: 2vh;
+border-radius: 5%;
+
+}
+
+.proyecc{
+
+    position: relative;
+    left: 95vh;
+    background-color: rgb(49, 49, 49);
+    height: 5vh;
+    width: 20vh;
+    border-radius: 5%;
+    
+    }
+    
+
+
+.proyect{
+
+position: relative;
+left: 88vh;
+background-color: rgb(49, 49, 49);
+height: 7vh;
+width: 40vh;
+border-radius: 5%;
+
+}
+
+.link{
+
+    text-decoration: none;
+    color: white;
+
+
+}
+
+.link1{
+
+    text-decoration: none;
+    color: white;
+
+
+}
+
+.not{
+
+background-color: rgb(49, 49, 49);
+width: 190vh;
+height: 50vh;
+position: relative;
+top: -140vh;
+left: 5vh;
+border-radius: 30px;
+box-shadow: -2px 10px 20px 6px black;
+}
+
+
+.ca{
+
+
+height: 10vh;
+width: 170vh;
+background-color: rgb(43, 43, 43);
+position: relative;
+left: 10vh;
+top: 2.4vh;
+border-radius: 20px;
+
+
+}
+
+.noti{
+
+position: relative;
+left: 80vh;
+
+
+
+}
+
+.foo{
+
+position: relative;
+top: -120vh;
+
+
+}
+
+.copy{
+
+position: relative;
+left: 90vh;
+
+
+}
+
+.ethe{
+
+position: relative;
+top: 2vh;
+left: 63vh;
+
+}
+
+.ether{
+
+position: relative;
+top: 8vh;
+
+}
+
+.todo{
+
+background-color: rgb(49, 49, 49);
+width: 190vh;
+height: 50vh;
+position: relative;
+
+left: 5vh;
+border-radius: 30px;
+box-shadow: -2px 10px 20px 6px black;
+
+
+}
+
+.l{
+
+position: relative;
+left: 4vh;
+
+}
+
+/* scrool */
+html{
+    scroll-behavior: smooth;
+  
+  }
+  ::-webkit-scrollbar{
+    background: #717171;
+    width: 10px;
+  
+  }
+  
+  ::-webkit-scrollbar-track{
+  box-shadow: inset 0 0 10px #00000070;
+  border-radius: 6px;
+  }
+  ::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, .4);
+  background: linear-gradient(125deg, #18181a,);
+  border-radius: 20px;
+  
+  
+  }
